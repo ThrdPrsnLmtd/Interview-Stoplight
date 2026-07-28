@@ -1,4 +1,9 @@
-# Getting Started with Create React App
+# Stoplight Component
+
+Displays a stoplight that cycles between lights at a fixed, hardcoded cadence.
+
+<img width="329" height="792" alt="image" src="https://github.com/user-attachments/assets/b91c78a7-5a4c-4eb0-bbf9-5572a73e6241" />
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
