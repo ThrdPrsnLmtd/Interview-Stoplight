@@ -1,0 +1,60 @@
+.App {
+  text-align: center;
+}
+
+#box {
+  background: black;
+  width: 240px;
+  height: 700px;
+  padding: 20px 20px;
+}
+
+#stop-circle-off {
+  background: darkred;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  margin: 20px 20px;
+}
+
+#stop-circle-on {
+  background: red;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  margin: 20px 20px;
+}
+
+#slow-circle-off {
+  background: darkgoldenrod;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  margin: 20px 20px;
+}
+
+#slow-circle-on {
+  background: yellow;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  margin: 20px 20px;}
+
+#go-circle-off {
+  background: darkgreen;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  margin: 20px 20px;}
+
+#go-circle-on {
+  background: greenyellow;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  margin: 20px 20px;}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
